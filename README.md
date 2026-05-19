@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Jordan+Reyes+Saravia;Software+Development+Student;Backend+Developer;Java+%7C+PHP+%7C+MySQL;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Jordan+Reyes+Saravia;Software+Development+Student;Backend+Developer;Java+%7C+PHP+%7C+MySQL+%7C+MongoDB;Future+Software+Engineer" />
 
 </div>
 
@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/📍_Peru-1D3557?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🎓_19_Años-0A192F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/💻_Backend_Developer-007ACC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🍃_MongoDB-47A248?style=for-the-badge"/>
 
 </div>
 
@@ -45,6 +46,7 @@
 
 - 🎓 **Software Development Student**
 - 💻 **Backend Specialist**
+- 🍃 **MongoDB & Database Enthusiast**
 - 🗄️ Passionate about databases and enterprise systems
 - 🚀 Learning modern technologies and best coding practices
 - ⚡ Interested in scalable and efficient applications
@@ -152,6 +154,7 @@ Proyecto académico desarrollado para la gestión y control de inventario utiliz
 | Java | ████████░░ |
 | PHP | ███████░░░ |
 | MySQL | ████████░░ |
+| MongoDB | ███████░░░ |
 | Git & GitHub | ███████░░░ |
 | Backend Development | ████████░░ |
 
@@ -164,7 +167,7 @@ Proyecto académico desarrollado para la gestión y control de inventario utiliz
 ✅ Improve programming logic  
 ✅ Build more real-world projects  
 ✅ Learn advanced backend development  
-✅ Improve database management  
+✅ Improve MongoDB & database management  
 ✅ Become Full Stack Developer  
 
 ---
